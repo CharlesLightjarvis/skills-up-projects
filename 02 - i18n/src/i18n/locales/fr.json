@@ -1,0 +1,10 @@
+{
+  "home": {
+    "welcome": "Bienvenue dans mon i18n app",
+    "description": "Ceci est une application multilingue"
+  },
+  "profile": {
+    "title": "Profil utilisateur",
+    "edit": "Modifier le profil"
+  }
+}
